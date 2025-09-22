@@ -136,3 +136,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Entry point for console_scripts (pip-installed usage)
+def cli():
+    """Console entry-point wrapper for setuptools/pyproject console_scripts."""
+    main()

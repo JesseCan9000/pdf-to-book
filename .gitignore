@@ -1,0 +1,6 @@
+__pycache__/
+pdf_to_book.egg-info/
+dist/
+tests/
+pyproject.toml
+build/
